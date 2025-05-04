@@ -15,10 +15,13 @@ Provides isolated storage for application configuration data by versions - tags,
 
 - Using the system-provided SDK clients, the application receives up-to-date data and updates the application configuration parameters in runtime.
 
-<div style="display: flex; justify-content: center; align-items: center; ">
-  <img src="../docs/img/fluxconfig_arch.jpg" 
-  style="width: 90%; height: auto;" alt="Sign In Guide">
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/fluxconfig_arch.jpg" 
+    alt="FluxConfig Architecture" 
+    width="90%"
+  >
+</p>
 
 ## Get started with FluxConfig
 
@@ -36,65 +39,78 @@ FluxConfig is modular, so you can deploy all its parts on one system or each par
 
 **Create if allowed**
 
-<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px">
-  <img src="../docs/img/guidance_2_1_create.png" 
-  style="width: 60%; height: auto;" alt="Sign In Guide">
-</div>
-
-<div style="text-align: center;">
+<p align="center">
   <img 
-    src="../docs/img/guidance_2_2_create.png" 
-    style="width: 60%; display: block; margin: 0 auto;" 
-    alt="Guidance_2_2 create"
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/guidance_2_1_create.png" 
+    alt="Create config page" 
+    width="70%"
   >
-</div>
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/guidance_2_2_create.png" 
+    alt="Create config section" 
+    width="70%"
+  >
+</p>
 
 **Invite members**
 
-<div style="text-align: center;">
+<p align="center">
   <img 
-    src="../docs/img/guidance_2_3_invite.png" 
-    style="width: 60%; display: block; margin: 0 auto;" 
-    alt="Guidance_2_3 invite"
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/guidance_2_3_invite.png" 
+    alt="Invite member" 
+    width="60%"
   >
-</div>
+</p>
 
 #### 2.3 Create configuration Tag if needed and allowed for your role
 
-<div style="text-align: center; margin-bottom: 10px">
+<p align="center">
   <img 
-    src="../docs/img/guidance_3_1_tags.png" 
-    style="width: 60%; display: block; margin: 0 auto;" 
-    alt="Guidance_2_3 invite"
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/guidance_3_1_tags.png" 
+    alt="Create config tag" 
+    width="60%"
   >
-</div>
+</p>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px">
-  <img src="../docs/img/guidance_3_1_tag_create.png" 
-  style="width: 60%; height: auto;" alt="Sign In Guide">
-</div>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/guidance_3_1_tag_create.png" 
+    alt="Create tag seaction" 
+    width="60%"
+  >
+</p>
 
 #### 2.4 Create or update configuration data for Tag allowed for your role
 
-<div style="text-align: center; margin-bottom: 10px">
+<p align="center">
   <img 
-    src="../docs/img/guidance_4_1_tag_data.png" 
-    style="width: 60%; display: block; margin: 0 auto;" 
-    alt="Guidance_2_3 invite"
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/guidance_4_1_tag_data.png" 
+    alt="Manage RT data" 
+    width="60%"
   >
-</div>
+</p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../docs/img/guidance_4_2_tag_data.png" 
-  style="width: 60%; height: auto;" alt="Sign In Guide">
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/guidance_4_2_tag_data.png" 
+    alt="Manage Vault data" 
+    width="60%"
+  >
+</p>
 
 #### 2.5 Get an API-key for configuration Tag allowed for your role
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../docs/img/guidance_5_api-key.png" 
-  style="width: 60%; height: auto;" alt="Sign In Guide">
-</div>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/FluxConfig/.github/master/docs/img/guidance_5_api-key.png" 
+    alt="Config api keys section" 
+    width="60%"
+  >
+</p>
 
 ### 3. Use provided SDK-clients in your application to retrieve configuration data.
 
